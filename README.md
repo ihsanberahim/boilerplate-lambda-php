@@ -43,5 +43,5 @@ stay working inside the `./php-example`
 * `$ sh invoke-functions.sh`
 
 To see invocation output, open `hello-output.txt` and `goodbye-output.txt`
-* `cat hello-ouput.txt`
-* `cat goodbye-output.txt`
+* `$ cat hello-ouput.txt`
+* `$ cat goodbye-output.txt`
